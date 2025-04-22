@@ -6,6 +6,7 @@ setup(
     description='Python虚拟环境管理插件',
     author='hzblkm',
     author_email='hzblkm@gmail.com',
+    url='https://github.com/hzblkm/virtualenv-plugin.git',
     py_modules=['install_env'],
     install_requires=[
         'trae>=1.0.0',

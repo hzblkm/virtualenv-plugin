@@ -5,7 +5,7 @@
   "entry_point": "install_env:main",
   "author": "hzblkm",
   "email": "hzblkm@gmail.com",
-  "homepage": "https://github.com/yourusername/virtualenv-plugin",
+  "homepage": "https://github.com/hzblkm/virtualenv-plugin.git",
   "keywords": ["python", "virtualenv", "环境管理", "开发工具"],
   "license": "MIT",
   "readme": "# Python虚拟环境管理插件\n\n这是一个用于管理Python虚拟环境的Trae插件。\n\n## 功能特点\n\n- 创建虚拟环境\n- 管理Python包依赖\n- 简化环境配置过程\n\n## 使用方法\n\n1. 安装插件：`trae install virtualenv-plugin`\n2. 创建环境：`trae virtualenv create`\n3. 激活环境：`trae virtualenv activate`\n\n## 配置说明\n\n可以在配置文件中自定义虚拟环境目录：\n\n```json\n{\n  \"venv_dir\": \"custom_venv\"\n}\n```",
